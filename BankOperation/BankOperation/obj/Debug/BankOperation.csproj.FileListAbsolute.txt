@@ -1,0 +1,13 @@
+G:\DotNet\Practice C#\BankOperation\BankOperation\bin\Debug\BankOperation.exe.config
+G:\DotNet\Practice C#\BankOperation\BankOperation\bin\Debug\BankOperation.exe
+G:\DotNet\Practice C#\BankOperation\BankOperation\bin\Debug\BankOperation.pdb
+G:\DotNet\Practice C#\BankOperation\BankOperation\obj\Debug\BankOperation.csprojResolveAssemblyReference.cache
+G:\DotNet\Practice C#\BankOperation\BankOperation\obj\Debug\BankOperation.IndexForm.resources
+G:\DotNet\Practice C#\BankOperation\BankOperation\obj\Debug\BankOperation.Properties.Resources.resources
+G:\DotNet\Practice C#\BankOperation\BankOperation\obj\Debug\BankOperation.SaveCustomerForm.resources
+G:\DotNet\Practice C#\BankOperation\BankOperation\obj\Debug\BankOperation.SearchCustomerForm.resources
+G:\DotNet\Practice C#\BankOperation\BankOperation\obj\Debug\BankOperation.TransactionForm.resources
+G:\DotNet\Practice C#\BankOperation\BankOperation\obj\Debug\BankOperation.csproj.GenerateResource.Cache
+G:\DotNet\Practice C#\BankOperation\BankOperation\obj\Debug\BankOperation.exe
+G:\DotNet\Practice C#\BankOperation\BankOperation\obj\Debug\BankOperation.pdb
+G:\DotNet\Practice C#\BankOperation\BankOperation\obj\Debug\BankOperation.TransactionHistoryForm.resources
